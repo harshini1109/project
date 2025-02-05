@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>College Details</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to XYZ College</h1>
+    </header>
+
+    <section>
+        <h2>College Information</h2>
+        <p><strong>Name:</strong> XYZ College</p>
+        <p><strong>Established:</strong> 1990</p>
+        <p><strong>Location:</strong> 123 College Avenue, City, Country</p>
+        <p><strong>Courses Offered:</strong> Computer Science, Engineering, Arts, Business Management</p>
+        <p><strong>Accreditation:</strong> Accredited by National Education Board</p>
+    </section>
+
+    <section>
+        <h2>Contact Information</h2>
+        <p><strong>Email:</strong> contact@xyzcollege.edu</p>
+        <p><strong>Phone:</strong> +123 456 7890</p>
+        <p><strong>Website:</strong> <a href="http://www.xyzcollege.edu">www.xyzcollege.edu</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 XYZ College</p>
+    </footer>
+</body>
+</html>
